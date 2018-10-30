@@ -5,6 +5,7 @@ __pycache__/
 
 data/
 keras-yolo3/
+*.h5
 
 # C extensions
 *.so
