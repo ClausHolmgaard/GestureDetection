@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 data/
+keras-yolo3/
 
 # C extensions
 *.so
