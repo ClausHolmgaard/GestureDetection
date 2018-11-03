@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 data/
-keras-yolo3/
+KerasYolo3/
 *.h5
 
 # C extensions
