@@ -6,7 +6,7 @@
         {
             "label": "TaskRun",
             "type": "shell",
-            "command": "python run.py"
+            "command": "./run"
         }
     ]
 }
